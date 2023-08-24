@@ -1,3 +1,8 @@
+Modern Full Stack ECommerce Application with Sanity 
+This is a [Preview](https://phanox-ecommerce-eight.vercel.app/)
+
+**Build and Deploy a fully responsive Modern Full Stack Ecommerce application**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
