@@ -1,6 +1,6 @@
 Modern Full Stack ECommerce Application with Sanity 
 
-This is a [Preview]([https://phanox-ecommerce-eight.vercel.app/](https://phanox-ecommerce-umitarpat.vercel.app/)
+This is a [Preview](https://phanox-ecommerce-umitarpat.vercel.app/)
 
 **Build and Deploy a fully responsive Modern Full Stack Ecommerce application**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities!
 
