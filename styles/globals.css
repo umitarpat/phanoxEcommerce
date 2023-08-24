@@ -29,7 +29,8 @@ width: 100%;
 .navbar-container{
   display: flex;
   justify-content: space-between;
-  margin: 6px 18px;
+  max-width: 1400px;
+  margin: 6px auto;
   position: relative;
 }
 .marquee-text{
